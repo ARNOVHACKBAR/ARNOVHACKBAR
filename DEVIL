@@ -1,0 +1,13 @@
+pkg update
+
+pkg upgrade 
+
+pkg install python 
+
+pkg install git
+
+
+pkg install clone
+
+
+git clone 
