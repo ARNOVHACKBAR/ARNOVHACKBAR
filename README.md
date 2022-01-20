@@ -19,10 +19,15 @@ pkg install clone
 
 git clone https://github.com/ARNOVHACKBAR/ARNOVHACKBAR
 
-run
+run:::
 
 
 
 cd ARNOVHACKBAR
 
 python dsbavl.py
+
+
+username :devil
+
+password :devil
