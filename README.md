@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @ARNOVHACKBAR
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+SMS bombing tool with team avl
 
-<!---
-ARNOVHACKBAR/ARNOVHACKBAR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+SMS bombing tool install Termux commends
+
+
+pkg update 
+
+pkg upgrade 
+
+pkg install git 
+
+
+pkg install python 
+
+
+pkg install clone 
+
+
+git clone https://github.com/ARNOVHACKBAR/ARNOVHACKBAR
+
+run
+
+
+
+cd ARNOVHACKBAR
+
+python dsbavl.py
