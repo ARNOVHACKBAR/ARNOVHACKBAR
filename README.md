@@ -1,7 +1,7 @@
-SMS bombing tool with team avl
+SMS bombing tool with team avl :
 
 
-SMS bombing tool install Termux commends
+SMS bombing tool install Termux commends :
 
 
 pkg update 
